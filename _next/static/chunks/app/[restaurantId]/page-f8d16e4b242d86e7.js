@@ -329,9 +329,7 @@
                   (0, n.jsxs)("div", {
                     children: [
                       (0, n.jsx)(b(), {
-                        href: "https://t.me/share/url?url="
-                          .concat("https://foodee.link", "/")
-                          .concat(t.restaurantId),
+                        href: "https://t.me/miraj_restaurant",
                         children: (0, n.jsxs)("div", {
                           className:
                             "flex items-center gap-4 border-b py-4 border-[#D0D7E1] px-6 activeLink",
@@ -348,9 +346,7 @@
                         }),
                       }),
                       (0, n.jsx)(b(), {
-                        href: "https://www.facebook.com/sharer/sharer.php?u="
-                          .concat("https://foodee.link", "/")
-                          .concat(t.restaurantId),
+                        href: "https://www.instagram.com/miraj_restoran_yangiyer",
                         children: (0, n.jsxs)("div", {
                           className:
                             "flex items-center gap-4 border-b py-4 border-[#D0D7E1] px-6 activeLink",
@@ -362,7 +358,7 @@
                               layout: "fixed",
                               alt: "tg",
                             }),
-                            (0, n.jsx)("span", { children: "Facebook" }),
+                            (0, n.jsx)("span", { children: "Instagram" }),
                           ],
                         }),
                       }),
@@ -370,9 +366,7 @@
                         className: "mt-10 px-6 mb-12",
                         children: [
                           (0, n.jsx)(x.CopyToClipboard, {
-                            text: ""
-                              .concat("https://foodee.link", "/")
-                              .concat(t.restaurantId),
+                            text: "https://vizitka-woad.vercel.app/",
                             children: (0, n.jsx)(h.Z, {
                               btnType: "drawerTypeBg",
                               id: "buttonCopy",
